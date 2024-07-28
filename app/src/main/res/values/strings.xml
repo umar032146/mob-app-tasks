@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Firsttproj</string>
+    <string name="name">just a random string</string>
+    <string name="myname">My first project in android </string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_loadingscreen">loadingscreen</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
